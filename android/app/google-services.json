@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049230051071",
+    "project_id": "arcitechassignment",
+    "storage_bucket": "arcitechassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049230051071:android:aedeef97b3f9188eec6eca",
+        "android_client_info": {
+          "package_name": "com.example.arcitech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXVqbVcT8fBJ38UvAloA0KTEqWM8Iak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
